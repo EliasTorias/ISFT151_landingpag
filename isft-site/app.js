@@ -1,3 +1,4 @@
+/*js_landingpage*/
 /*Carreras disponibles */
 const courses = [
     { name: "Tecnicatura Superior en Análisis de Sistemas" },
