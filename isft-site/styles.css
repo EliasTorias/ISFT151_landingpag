@@ -51,27 +51,3 @@ h2 {
     display: block;
     width: 100%;
 }
-
-/* Estilos adicionales para la promoción */
-#promotion {
-    background-color: #f1f1f1;
-}
-
-/* Estilos adicionales para la sección de inscripción */
-#registration-form {
-    max-width: 400px;
-    margin: 0 auto;
-}
-
-#registration-form input,
-#registration-form select {
-    padding: 5px;
-}
-
-#registration-form button {
-    background-color: #337ab7;
-    color: #fff;
-    border: none;
-    padding: 10px;
-    cursor: pointer;
-}
